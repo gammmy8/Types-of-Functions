@@ -15,7 +15,7 @@ This repository contains a simple Ethereum smart contract written in Solidity. T
 ## Getting Started
 To deploy and interact with the smart contract, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/types-of-functions.git
+1. Clone the repository: git clone (https://github.com/gammmy8/Types-of-Functions.git)
 
 2. Install dependencies (if any).
 
