@@ -12,17 +12,6 @@ This repository contains a simple Ethereum smart contract written in Solidity. T
   2. `mint(address _to, uint256 _value)`: Mint new tokens and add them to the specified address.
   3. `burn(address _from, uint256 _value)`: Burn tokens from the specified address.
 
-## Getting Started
-To deploy and interact with the smart contract, follow these steps:
-
-1. Clone the repository: git clone (https://github.com/gammmy8/Types-of-Functions.git)
-
-2. Install dependencies (if any).
-
-3. Deploy the smart contract to an Ethereum-compatible blockchain network using tools like Remix, Truffle, or Hardhat.
-
-4. Interact with the deployed contract using a web3 provider like MetaMask or by calling functions programmatically.
-
 ## Author
 - **Gamalliel Tamaca**
 
